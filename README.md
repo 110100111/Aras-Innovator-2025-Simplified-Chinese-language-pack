@@ -2,7 +2,6 @@
 
 ![default](https://github.com/user-attachments/assets/f9fa3a68-a396-4720-8dfe-10f6ce619b81)
 
-原文件来自Aras官网提供的简体中文语言包38V1（地址：https://aras.com/en/support/downloads/language-packs-hotfixes/language-packs/simplifiedchineselanguagepack）
 
 配置步骤：
 
@@ -47,6 +46,8 @@
   打开语言包中logs文件夹，文件夹中应有2份日志文件，打开应均有success字样。
 
 注：具体步骤语言包中000-README.TXT文件有详细描述，以上仅为简述。
+
+原文件来自Aras官网提供的简体中文语言包38V1（地址：https://aras.com/en/support/downloads/language-packs-hotfixes/language-packs/simplifiedchineselanguagepack）
 
 免责声明：
 
