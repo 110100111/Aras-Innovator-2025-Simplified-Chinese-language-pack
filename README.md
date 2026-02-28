@@ -47,7 +47,10 @@
 
 注：具体步骤语言包中000-README.TXT文件有详细描述，以上仅为简述。
 
-原文件来自Aras官网提供的简体中文语言包38V1（地址：https://aras.com/en/support/downloads/language-packs-hotfixes/language-packs/simplifiedchineselanguagepack）
+原文件来自Aras官网提供的简体中文语言包38V1
+
+<img width="3839" height="2083" alt="111111111" src="https://github.com/user-attachments/assets/8ab6ac67-0182-4c53-905a-4a9d0a86bcc6" />
+
 
 免责声明：
 
